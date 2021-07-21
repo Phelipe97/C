@@ -1,2 +1,2 @@
 # C
- Trabalhos em C
+ Trabalhos da faculdade
